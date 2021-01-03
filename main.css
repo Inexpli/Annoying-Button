@@ -1,0 +1,26 @@
+button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2rem;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+span {
+    color: rgb(25, 199, 25);
+}
+
+button:hover {
+    animation: changecolor 1s ease forwards;
+}
+
+@keyframes changecolor {
+    from {
+        background-color: transparent;
+    }
+    to {
+        background-color: rgb(34, 226, 34);
+    }
+}
