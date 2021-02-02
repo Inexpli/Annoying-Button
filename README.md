@@ -1,3 +1,3 @@
 # Annoying Button
  
-https://jezjakub.github.io/Annoying-Button/
+https://inexpli.github.io/Annoying-Button/
